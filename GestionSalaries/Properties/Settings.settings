@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="AppData" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Users\CDA\Desktop\Git_test_gestion_Salarie\clone_gestion\SalariesDll.Salaries.Xml</Value>
+      <Value Profile="(Default)">C:\Users\CDA\Desktop\Git_test_gestion_Salarie\clone_gestion\SalariesData</Value>
     </Setting>
     <Setting Name="Temps" Type="System.String" Scope="User">
       <Value Profile="(Default)">3</Value>

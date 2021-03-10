@@ -47,7 +47,7 @@ namespace Utilitaires
         {
             Object objet = null;
 
-            string pathXmlDocument = string.Format("{0}\\{1}.Xml", pathRepData, typeACharger.FullName);
+            string pathXmlDocument = string.Format("{0}.Xml", pathRepData);
             using (FileStream fileStream = new FileStream(pathXmlDocument, FileMode.Open, FileAccess.Read, FileShare.Read))
             {
                 

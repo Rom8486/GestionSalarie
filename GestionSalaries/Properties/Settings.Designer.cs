@@ -25,8 +25,7 @@ namespace GestionSalaraies.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\CDA\\Desktop\\Git_test_gestion_Salarie\\clone_gestion\\SalariesDll.Salaries." +
-            "Xml")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\CDA\\Desktop\\Git_test_gestion_Salarie\\clone_gestion\\SalariesData")]
         public string AppData {
             get {
                 return ((string)(this["AppData"]));
