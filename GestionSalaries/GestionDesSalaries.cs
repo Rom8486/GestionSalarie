@@ -199,11 +199,11 @@ namespace GestionSalaraies
 
         private void btnAjouter_Click(object sender, EventArgs e)
         {
-            GestionnaireContextes(Contextes.AjoutInitial);
-            checkBoxCommercial.Enabled = true;
-            textBoxCommission.Clear();
-            textBoxChiffreAffaire.Clear();
-            checkBoxCommercial.Checked = false;
+            //GestionnaireContextes(Contextes.AjoutInitial);
+            //checkBoxCommercial.Enabled = true;
+            //textBoxCommission.Clear();
+            //textBoxChiffreAffaire.Clear();
+            //checkBoxCommercial.Checked = false;
         }
 
 
